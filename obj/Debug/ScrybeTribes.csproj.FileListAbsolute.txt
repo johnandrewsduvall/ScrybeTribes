@@ -1,0 +1,2 @@
+C:\Users\johna\Source\Repos\ScrybeTribes\ScrybeTribes\obj\Debug\ScrybeTribes.csprojAssemblyReference.cache
+C:\Users\johna\Source\Repos\ScrybeTribes\ScrybeTribes\obj\Debug\ScrybeTribes.csproj.CoreCompileInputs.cache
